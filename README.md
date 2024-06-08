@@ -2,5 +2,7 @@
 
 1. Netflix Movies & TV Shows
    [Link Repository](https://github.com/isnainimufidhatulmughni/Netflix-Movies-and-TV-Shows)
-2. SuperStore Analysis
+   
+3. SuperStore Analysis
    [Link Repository](https://github.com/isnainimufidhatulmughni/SuperStore-Analysis)
+   
