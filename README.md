@@ -8,7 +8,7 @@ Here, you'll find a collection of data analysis projects that showcase my skills
 
    Dashboard: [Power BI Dashboard Netflix Movies & TV Shows](https://app.powerbi.com/view?r=eyJrIjoiZWI4N2IzZDItZTY1Yy00NDAyLWI2ZmItODE3MjdmOGRiZjg0IiwidCI6ImQ3Yjk1ZWM0LTlhN2YtNDI2MC1iMmUzLWViNTNmMGFjODQwMSIsImMiOjEwfQ%3D%3D)
 
-   Description: 
+   Description: A project that can be used to explore the Movie and TV Show database on Netflix from 2016 to 2020. I used Microsoft Excel for data cleaning, Python for EDA, and Power BI for the visualization dashboard. The final analysis can be used to increase ARPU in 2021.
    
 3. SuperStore Analysis
    
@@ -16,5 +16,5 @@ Here, you'll find a collection of data analysis projects that showcase my skills
 
    Dashboard: [Tableau Dashboard Superstore](https://public.tableau.com/app/profile/isnaini.mufidhatul.mughni4637/viz/Superstore_17179110368090/Dashboard1)
 
-   Description:
+   Description: Superstore analysis, which is an online home and office supply store in 48 states. The executive team would like to understand which products, subcategories, and categories they should target or avoid. The analysis results from 2019 to 2022 can be used to determine strategies for increasing revenue.
    
