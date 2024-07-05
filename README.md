@@ -23,3 +23,9 @@ Here, you'll find a collection of data analysis projects that showcase my skills
    Repository: [Insurance Charges](https://github.com/isnainimufidhatulmughni/Predictive-Modeling-for-Insurance-Charges)
    
     Description: Predictive Modeling for Insurance Charges involves developing machine learning models to predict insurance costs based on features such as age, gender, BMI, number of children, smoking status, and region. This can assist insurance companies in determining more accurate and fair premium prices.
+
+4. Customer Feedback Analysis: Web Scraping Google Reviews for Bobobox
+   
+   Repository: [Customer Feedback Analysis](https://github.com/isnainimufidhatulmughni/Web-Scraping-Google-Reviews-for-Bobobox)
+
+   Description: This project aims to analyze customer reviews of Bobobox, a popular pod hotel, by leveraging web scraping techniques to extract data from Google Reviews. The analysis focuses on understanding customer sentiments, identifying common themes, and providing actionable insights for improving customer experience.
