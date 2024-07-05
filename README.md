@@ -19,6 +19,7 @@ Here, you'll find a collection of data analysis projects that showcase my skills
    Description: Superstore analysis, which is an online home and office supply store in 48 states. The executive team would like to understand which products, subcategories, and categories they should target or avoid. The analysis results from 2019 to 2022 can be used to determine strategies for increasing revenue.
    
 3. Predictive Modeling for Insurance Charges
+4. 
    Repository: [Insurance Charges](https://github.com/isnainimufidhatulmughni/Predictive-Modeling-for-Insurance-Charges)
    
     Description: Predictive Modeling for Insurance Charges involves developing machine learning models to predict insurance costs based on features such as age, gender, BMI, number of children, smoking status, and region. This can assist insurance companies in determining more accurate and fair premium prices.
