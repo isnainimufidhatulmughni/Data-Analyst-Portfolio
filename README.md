@@ -10,7 +10,7 @@ Here, you'll find a collection of data analysis projects that showcase my skills
 
    Description: A project that can be used to explore the Movie and TV Show database on Netflix from 2016 to 2020. I used Microsoft Excel for data cleaning, Python for EDA, and Power BI for the visualization dashboard. The final analysis can be used to increase ARPU in 2021.
    
-3. SuperStore Analysis
+2. SuperStore Analysis
    
    Repository: [SuperStore](https://github.com/isnainimufidhatulmughni/SuperStore-Analysis)
 
@@ -18,3 +18,7 @@ Here, you'll find a collection of data analysis projects that showcase my skills
 
    Description: Superstore analysis, which is an online home and office supply store in 48 states. The executive team would like to understand which products, subcategories, and categories they should target or avoid. The analysis results from 2019 to 2022 can be used to determine strategies for increasing revenue.
    
+3. Predictive Modeling for Insurance Charges
+   Repository: [Insurance Charges](https://github.com/isnainimufidhatulmughni/Predictive-Modeling-for-Insurance-Charges)
+   
+    Description: Predictive Modeling for Insurance Charges involves developing machine learning models to predict insurance costs based on features such as age, gender, BMI, number of children, smoking status, and region. This can assist insurance companies in determining more accurate and fair premium prices.
