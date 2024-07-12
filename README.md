@@ -12,7 +12,7 @@ Here, you'll find a collection of data analysis projects that showcase my skills
    
 2. SuperStore Analysis
    
-   Repository: [SuperStore](https://github.com/isnainimufidhatulmughni/SuperStore-Analysis)
+   Repository: [SuperStore](https://github.com/isnainimufidhatulmughni/Superstore)
 
    Dashboard: [Tableau Dashboard Superstore](https://public.tableau.com/app/profile/isnaini.mufidhatul.mughni4637/viz/Superstore_17179110368090/Dashboard1)
 
