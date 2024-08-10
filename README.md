@@ -29,3 +29,9 @@ Here, you'll find a collection of data analysis projects that showcase my skills
    Repository: [Customer Feedback Analysis](https://github.com/isnainimufidhatulmughni/Web-Scraping-Google-Reviews-for-Bobobox)
 
    Description: This project aims to analyze customer reviews of Bobobox, a popular pod hotel, by leveraging web scraping techniques to extract data from Google Reviews. The analysis focuses on understanding customer sentiments, identifying common themes, and providing actionable insights for improving customer experience.
+
+5. Diabetes Prediction Using Random Forest Classifier
+   
+   Repository: [Diabetes Prediction Using Random Forest Classifier](https://github.com/isnainimufidhatulmughni/Diabetes-Prediction-Using-Random-Forest-Classifier)
+
+   Description: This project aims to predict whether a patient has diabetes based on available clinical data using a Random Forest model. With the increasing prevalence of diabetes worldwide, the ability to predict this condition early is crucial for prevention and treatment efforts. The data used includes patient health information such as glucose levels, cholesterol, Chol/HDL ratio, body mass index (BMI), and several other metrics. 
