@@ -35,3 +35,9 @@ Here, you'll find a collection of data analysis projects that showcase my skills
    Repository: [Diabetes Prediction Using Random Forest Classifier](https://github.com/isnainimufidhatulmughni/Diabetes-Prediction-Using-Random-Forest-Classifier)
 
    Description: This project aims to predict whether a patient has diabetes based on available clinical data using a Random Forest model. With the increasing prevalence of diabetes worldwide, the ability to predict this condition early is crucial for prevention and treatment efforts. The data used includes patient health information such as glucose levels, cholesterol, Chol/HDL ratio, body mass index (BMI), and several other metrics. 
+
+6. Unlocking Regional Insights: Visualizing Area Potential Through My Maps
+
+   Repository: [Unlocking Regional Insights: Visualizing Area Potential Through My Maps]()
+
+   Description: This project focuses on analyzing and visualizing the potential of a specific geographic area by scraping data from Google Maps and creating an interactive map in Google My Maps. The workflow includes extracting data such as business locations, link maps, latitude, longitude, and distance using web scraping techniques.
